@@ -1,0 +1,39 @@
+.container{
+    background: linear-gradient(purple, red);
+    height: 600px;
+    width: 100%;
+}
+.pic img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    float:right;
+    padding: 5px;
+}
+.main{
+    margin: auto;
+    width: 250px;
+    font-weight: bold;
+    font-size: larger;
+}
+.pic2{
+    margin: auto;
+    width: 250px;
+}
+.pic2 img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%
+}
+.heading{
+    margin: auto;
+    width: 250px;
+    font-weight: bold;
+    font-size: larger;
+}
+.box{
+    margin: auto;
+    width: 250px;
+}
+
+
